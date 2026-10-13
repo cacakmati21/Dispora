@@ -1,0 +1,6 @@
+{
+  "name": "Disporapar Hulu Sungai Utara",
+  "description": "Portal Resmi Dinas Kepemudaan, Olahraga, dan Pariwisata Kabupaten Hulu Sungai Utara (HSU) - Destinasi Wisata, Berita, Galeri, Peta Lokasi, dan Layanan Perizinan Online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
